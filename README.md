@@ -1,2 +1,2 @@
-# Responsive-Admin-Dashboard-HTML-CSS-JavaScript
-#html #css #javascript #js #css3 #html5 #admindashboard
+# adminhub
+Website ini merupakan hasil slicing dari Figma ke responsive website menggunakan HTML, CSS, dan JavaScript
